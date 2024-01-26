@@ -27,7 +27,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 -   **Run_Complexity.Rmd** - An example of the function in use.
 
-## Using the `esc.complexity` function
+## Using the `esc.complexity.procedure()` function
 
 ### Inputs
 
